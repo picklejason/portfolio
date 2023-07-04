@@ -27,7 +27,7 @@ const HeroSection = () => {
             based in College Park, MD. I will be graduating with a BS in Computer Science at the University of Maryland in May 2024. 
             Currently looking for SWE internships and New Grad roles!
           </p>
-          <div className="flex gap-4">
+          <div className="flex justify-center gap-4">
             <a 
               className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
               href="/resume.pdf"
