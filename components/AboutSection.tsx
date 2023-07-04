@@ -44,7 +44,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I'm currently a senior student at the University of Maryland. 
+              I&#39;m currently a senior student at the University of Maryland. 
               I will be graduating in May 2024 with a BS in Computer Science.
             </p>
             <br />
