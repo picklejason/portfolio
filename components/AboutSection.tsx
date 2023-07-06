@@ -50,18 +50,17 @@ const AboutSection = () => {
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing video games, working out, to coding projects,
+              From reading, playing video games, working out, coding projects, 
+              to building PCs and mechanical keyboards.
               I am always seeking new experiences and love to keep myself
               engaged and learning new things.
             </p>
             <br />
             <p>
-              I believe that you should{" "}
-              <span className="font-bold text-teal-500">
-                never stop growing
-              </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to make an impact in the world.
+              As a software engineer, I am driven by the opportunity to solve 
+              complex problems and make a meaningful impact. 
+              I am passionate about leveraging technology to improve people&#39;s 
+              lives and create innovative solutions that address real-world challenges.
               I am excited to see where my career takes me and am
               always open to new opportunities. 🙂
             </p>
