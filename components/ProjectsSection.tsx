@@ -8,10 +8,17 @@ const projects = [
   {
     name: "HSR Showcase",
     description:
-      "HSR Showcase is a web app built using Flask and TailwindCSS that displays and creates a character showcase card for the game Honkai: Star Rail.",
+      "HSR Showcase is a web app built using Flask and Tailwind CSS that displays and creates a character showcase card for the game Honkai: Star Rail.",
     image: "/showcase.png",
     github: "https://github.com/picklejason/starrail",
     link: "https://hsr-showcase.vercel.app/",
+  },
+  {
+    name: "Bnb Clone",
+    description: "Bnb clone is a full-stack web app built using Next.js, React, Tailwind CSS, Prisma, MongoDB, and NextAuth that is a functional Airbnb clone with seamless navigation and user experience.",
+    image: "/bnb-clone.png",
+    github: "https://github.com/picklejason/airbnb-clone",
+    link: "https://bnb-clone-jade.vercel.app/",
   },
   {
     name: "Pokéteam",
