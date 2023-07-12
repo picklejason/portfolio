@@ -8,7 +8,7 @@ const projects = [
   {
     name: "HSR Showcase",
     description:
-      "HSR Showcase is a web app built using Flask and Tailwind CSS that displays and creates a character showcase card for the game Honkai: Star Rail.",
+      "HSR Showcase is a web app built using Next.js, React, and Tailwind CSS that displays and creates a character showcase card for the game Honkai: Star Rail.",
     image: "/showcase.png",
     github: "https://github.com/picklejason/starrail",
     link: "https://hsr-showcase.vercel.app/",
