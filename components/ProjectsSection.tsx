@@ -6,6 +6,14 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "Receiptify",
+    description:
+      "Receiptify is a web app built using Next.js and Tailwind CSS that converts a Spotify user's top tracks into a receipt and playlist to share.",
+    image: "/receiptify.png",
+    github: "https://github.com/picklejason/receiptify",
+    link: "https://next-receiptify.vercel.app/",
+  },
+  {
     name: "HSR Showcase",
     description:
       "HSR Showcase is a web app built using Next.js, React, and Tailwind CSS that displays and creates a character showcase card for the game Honkai: Star Rail.",
